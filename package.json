@@ -1,0 +1,26 @@
+{
+  "name": "abr-xcorr",
+  "version": "1.0.0",
+  "description": "Cross correlation in JS",
+  "main": "xcorr.js",
+  "scripts": {
+    "test": "mocha *.test.js --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adblockradio/xcorr.git"
+  },
+  "author": "Alexandre Storelli <a_npm@storelli.fr>",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/adblockradio/xcorr/issues"
+  },
+  "homepage": "https://github.com/adblockradio/xcorr#readme",
+  "dependencies": {
+    "dsp.js": "git+https://git@github.com/corbanbrook/dsp.js"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "pngjs": "^3.4.0"
+  }
+}
