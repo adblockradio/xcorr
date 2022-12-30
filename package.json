@@ -20,7 +20,7 @@
     "dsp.js": "git+https://git@github.com/corbanbrook/dsp.js"
   },
   "devDependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "pngjs": "^3.4.0"
   }
 }
